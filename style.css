@@ -46,16 +46,9 @@ img {
 figcaption {
 	color: white ;
 	font-style: italic;
-	/*margin-right: 7px;
-	
-	margin-bottom: 25px;
-	*/
 	text-align: center;
 	margin-top: 20px;
 	}
-	/*margin-left: 0px;*/
-	/*width: 100%;*/
-	
 
 table {
 	width: 100%;
@@ -117,44 +110,3 @@ h2 {
 	font-size: 25px;
 }
 
-
-
-/*
-
-
-td{
-	text-align: left;
-}
-
-
-
-.para1 {
-	text-align: left;
-}
-
-.block1 {
-	
-}
-
-
-*/
-
-
-	/*padding-top: 30px;
-	padding-right: 30px;
-	padding-left: 30px;
-	padding-bottom: 20px;
-}/*
-
-
-
-
-
-
-
-
-
-a {
-	color: red;
-	font-weight: bold;
-}
